@@ -11,10 +11,7 @@
 - Software development
 - Automatization tools, data visualization and analytics.
 - Ongoing improving as developer.
-
-  # 💫 About Me:
-💻 Focus on: <br>- Bioinformatics and data science applied to bio-sci.<br>- Software development<br>- Automatization tools, data visualization and analytics.<br>- Ongoing improving as developer
-
+<hr>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___t0r1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jair-hurtado-hernandez-0b930a335/) 
