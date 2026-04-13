@@ -1,5 +1,5 @@
 ## Hi there 👋
-🎓 My academic background is in Biology; however, my curiosity about data analytics and the application of technology to the natural sciences has led me to broaden my academic profile into new disciplines. Currently, I am developing my career in data processing and engineering, software and web development, with the goal of integrating scientific thinking with technological solutions that contribute to the generation and application of knowledge.
+🎓 My academic background is in Biology; however, my curiosity about data analytics and the application of technology to the natural sciences has led me to broaden my academic profile into new disciplines. Currently, I am developing my career in data processing and software engineering, with the goal of integrating scientific thinking with technological solutions that contribute to the generation and application of knowledge.
 
 🧬 Nowadays, I combine my scientific experience with programming skills, working on projects that span the worlds of biology, computer science, and data analysis.
 
